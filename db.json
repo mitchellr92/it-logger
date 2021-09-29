@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed hard drive",
+      "attention": false,
+      "date": "03-02-2021",
+      "tech": "Sam Smith"
+    },
+    {
+      "id": 2,
+      "message": "Restarted computer",
+      "attention": false,
+      "date": "04-02-2021",
+      "tech": "John Doe"
+    },
+    {
+      "id": 3,
+      "message": "Blew on cartridge",
+      "attention": false,
+      "date": "5-02-2021",
+      "tech": "Sara Wilson"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Sam",
+      "lastName": "Smith" 
+    },
+    {
+      "id": 1,
+      "firstName": "Sara",
+      "lastName": "Wilson" 
+    },
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe" 
+    }
+  ]
+}
