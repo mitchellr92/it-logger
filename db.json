@@ -9,8 +9,8 @@
     },
     {
       "id": 2,
-      "message": "Restarted computer",
-      "attention": false,
+      "message": "Restart computer",
+      "attention": true,
       "date": "04-02-2021",
       "tech": "John Doe"
     },
