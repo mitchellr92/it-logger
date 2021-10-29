@@ -13,56 +13,6 @@
       "attention": true,
       "date": "04-02-2021",
       "tech": "John Doe"
-    },
-    {
-      "id": 3,
-      "message": "Blew on cartridge",
-      "attention": false,
-      "date": "5-02-2021",
-      "tech": "Sara Wilson"
-    },
-    {
-      "id": 4
-    },
-    {
-      "id": 5
-    },
-    {
-      "id": 6
-    },
-    {
-      "id": 7
-    },
-    {
-      "id": 8
-    },
-    {
-      "id": 9
-    },
-    {
-      "id": 10
-    },
-    {
-      "id": 11
-    },
-    {
-      "id": 12
-    },
-    {
-      "id": 13
-    },
-    {
-      "id": 14
-    },
-    {
-      "id": 15
-    },
-    {
-      "message": "Fixed computer",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2021-10-29T22:48:29.740Z",
-      "id": 16
     }
   ],
   "techs": [
