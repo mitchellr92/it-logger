@@ -16,7 +16,6 @@ const Logs = ({ log: { logs, loading }, getLogs }) => {
     return <Preloader />;
   }
 
-  console.log(logs);
 
   return (
     <ul className="collection with-header">
