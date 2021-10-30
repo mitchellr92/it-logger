@@ -44,6 +44,16 @@
       "id": 1,
       "firstName": "John",
       "lastName": "Doe"
+    },
+    {
+      "firstName": "Greg",
+      "lastName": "Simmons",
+      "id": 2
+    },
+    {
+      "firstName": "Jill",
+      "lastName": "Parker",
+      "id": 3
     }
   ]
 }
